@@ -11,6 +11,7 @@
 } */
 
 .tui-pagination {
+  height: 40px;
   /* height: 28px;
     margin: 14px 0 12px; */
   line-height: normal;

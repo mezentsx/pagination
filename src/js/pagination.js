@@ -1,5 +1,4 @@
 import Pagination from 'tui-pagination';
-import 'tui-pagination/dist/tui-pagination.css';
 
 export function renderPaginationTrendingMovie(totalItems) {
     const container = document.getElementById('pagination');
